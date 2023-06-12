@@ -30,7 +30,8 @@ Tabel: Kasus Pertama COVID-19 di Negara ASEAN
 
 <img width="525" alt="Screenshot 2023-06-09 at 01 35 51" src="https://github.com/grryts/COVID-19-di-Dunia-dan-ASEAN/assets/135938602/be1f9bc1-c7bc-4bd3-8352-63132b6e5f8f">
 
-Terakhir, kami menyajikan visualisasi dalam bentuk grafik garis yang memperlihatkan perbandingan jumlah kasus COVID-19 di negara-negara ASEAN seiring berjalannya waktu. Grafik ini memberikan gambaran yang jelas tentang tren penyebaran COVID-19 di negara-negara ASEAN.
+Terakhir, kami menyajikan visualisasi dalam bentuk grafik garis yang memperlihatkan perbandingan jumlah kasus COVID-19 di negara-negara ASEAN seiring berjalannya
+waktu. Grafik ini memberikan gambaran yang jelas tentang tren penyebaran COVID-19 di negara-negara ASEAN.
 
 Grafik: Perbandingan Jumlah Kasus COVID-19 di Negara ASEAN
 
