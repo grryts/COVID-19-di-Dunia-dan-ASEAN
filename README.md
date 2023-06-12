@@ -22,7 +22,7 @@ Grafik: Top 20 Negara dengan Fatality Ratio Tertinggi
 
 Selanjutnya, kami fokus pada situasi COVID-19 di negara-negara ASEAN, yaitu Indonesia, Malaysia, Singapura, Thailand, dan Vietnam. Kami menganalisis data kasus COVID-19 di negara-negara tersebut.
 
-Kami mengidentifikasi
+Kami mengidentifikasi 
 
  kasus pertama yang muncul di masing-masing negara ASEAN dan menyajikan informasi ini dalam tabel. Tabel ini memberikan pemahaman tentang waktu munculnya kasus pertama di negara-negara tersebut.
 
