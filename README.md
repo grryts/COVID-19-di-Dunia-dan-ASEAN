@@ -1,3 +1,5 @@
+![Proyek 1_Covid19 ASEAN](https://github.com/grryts/COVID-19-di-Dunia-dan-ASEAN/assets/135938602/b4ea05dd-06ba-47b3-8643-b7303b491b8f)
+![Proyek 1_Top 20 Fatality Rate](https://github.com/grryts/COVID-19-di-Dunia-dan-ASEAN/assets/135938602/efe8bfd6-6a0f-41f9-9074-59aea46d749b)
 # Kasus COVID-19 di Dunia dan ASEAN
 
 Pada analisis ini, kami melakukan penelusuran terhadap data COVID-19 di dunia serta negara-negara ASEAN untuk memberikan pemahaman yang lebih baik tentang situasi pandemi. Kami menggunakan data yang terdiri dari jumlah kasus terkonfirmasi, kematian, dan negara terkait.
