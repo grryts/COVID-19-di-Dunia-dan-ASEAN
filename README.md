@@ -12,7 +12,8 @@ Berikutnya, kami mengidentifikasi 20 negara dengan fatality ratio tertinggi. Dat
 
 Tabel: 20 Negara dengan Fatality Ratio Tertinggi
 
-<img width="528" alt="Screenshot 2023-06-09 at 01 30 49" src="https://github.com/grryts/COVID-19-di-Dunia-dan-ASEAN/assets/135938602/a419d106-c6db-4030-9ec3-09a82775f6be">
+![image](https://github.com/grryts/COVID-19-di-Dunia-dan-ASEAN/assets/135938602/04a4bfe8-fd6a-40ed-9293-20d7833911a0)
+
 
 Selain itu, kami juga menyajikan visualisasi dalam bentuk diagram batang horizontal yang memperlihatkan perbandingan fatality ratio di antara negara-negara tersebut. Grafik ini memberikan gambaran yang jelas tentang tingkat kematian akibat COVID-19 di negara-negara yang dipilih.
 
@@ -28,7 +29,8 @@ Kami mengidentifikasi
 
 Tabel: Kasus Pertama COVID-19 di Negara ASEAN
 
-<img width="525" alt="Screenshot 2023-06-09 at 01 35 51" src="https://github.com/grryts/COVID-19-di-Dunia-dan-ASEAN/assets/135938602/be1f9bc1-c7bc-4bd3-8352-63132b6e5f8f">
+![image](https://github.com/grryts/COVID-19-di-Dunia-dan-ASEAN/assets/135938602/d3f6ac8f-e0bd-428c-a6fd-18ce0d2b1598)
+
 
 Terakhir, kami menyajikan visualisasi dalam bentuk grafik garis yang memperlihatkan perbandingan jumlah kasus COVID-19 di negara-negara ASEAN seiring berjalannya
 waktu. Grafik ini memberikan gambaran yang jelas tentang tren penyebaran COVID-19 di negara-negara ASEAN.
